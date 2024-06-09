@@ -1,0 +1,21 @@
+.jobDeatils{
+  height: 100px;
+  display: flex;
+  flex-flow: row wrap;
+  box-sizing: border-box;
+word-break: break-word;
+overflow: auto;
+margin: 15px 20px;
+display: flex;
+flex-flow: column;
+gap: 10px;
+justify-content: center;
+overflow: auto
+
+}
+
+.cmd-command,
+.log-data {
+display: flex;
+gap: 10px;
+}

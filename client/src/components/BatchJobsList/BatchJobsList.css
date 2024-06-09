@@ -1,0 +1,42 @@
+.table-container{
+        display: block;
+        margin: 2em auto;
+        width: 100%;
+        max-width: 800px;
+
+
+}
+
+
+.flex-table {
+    display: flex;
+    flex-flow: row wrap;
+    /* border-left: solid 1px ; */
+    transition: 0.5s;
+
+
+  }
+
+  .flex-row {
+
+    width: calc(100% / 7);
+    text-align: center;
+    padding: 0.5em 0.5em;
+    /* border-right: solid 1px; */
+    /* border-bottom: solid 1px ; */
+  }
+
+  .job-row:nth-child(odd){
+    background-color:#edf5f1; 
+  }
+  /* .jobDetails + .flex-row  {
+    border-top: solid 1px ;
+
+  }
+
+.list tr {
+    max-width: 800px;
+    background: blue;
+    display: flex;
+    flex-direction: row;
+} */
