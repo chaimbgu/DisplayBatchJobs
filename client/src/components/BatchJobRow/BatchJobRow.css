@@ -1,13 +1,13 @@
-.flex-table {
-    border-bottom: 1px solid black;
-    cursor: pointer;
+.flex-row {
+  border-bottom: 1px solid black;
+  cursor: pointer;
 }
 
-.flex-table:hover{
-    background-color: #e3fcee !important;
+.flex-row:hover {
+  background-color: #e3fcee !important;
 }
 
-.job-details-wrapper{
-    width: 100%;
-    border-bottom: 1px solid black;
+.job-details-wrapper {
+  width: 100%;
+  border-bottom: 1px solid black;
 }

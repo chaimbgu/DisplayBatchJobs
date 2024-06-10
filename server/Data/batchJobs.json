@@ -1,3 +1,6 @@
 {"1" : { "status" : "PENDING" ,"metadata": {"user" : "user1" , "group" : "group1",  "submitDate" : "5.6.2024", "endDate": "5.6.2024"}, "cmdCommand": "mycmd command 1", "logData" : "my log data 1" } ,
-"2" : { "status" : "RUNNING" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024", "endDate": "5.6.2024"}, "cmdCommand": "mycmd command 2", "logData" : "my log data 2" }
-,"3" :{ "status" : "FAILED" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024", "endDate": "5.6.2024"}, "cmdCommand": "mycmd command 3", "logData" : "my log data 3" }} 
+"2" : { "status" : "RUNNING" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024"}, "cmdCommand": "mycmd command 2", "logData" : "my log data 2" }
+,"3" :{ "status" : "FAILED" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024", "endDate": "5.6.2024"}, "cmdCommand": "mycmd command 3", "logData" : "my log data 3" },
+"4" :{ "status" : "SUCCEEDED" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024", "endDate": "10.6.2024"}, "cmdCommand": "mycmd command 4", "logData" : "my log data 4" },
+"5" :{ "status" : "SUCCEEDED" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024", "endDate": "10.6.2024"}, "cmdCommand": "mycmd command 5", "logData" : "my log data 5" },
+"6" :{ "status" : "TERMINATED" ,"metadata": {"user" : "user2" , "group" : "group1",  "submitDate" : "5.6.2024"}, "cmdCommand": "mycmd command 6", "logData" : "my log data 6" }} 
