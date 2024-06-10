@@ -12,7 +12,7 @@ $ npm install
 $ node server.js
 ```
 
-In order to run client please run ( client url will be http://localhost:3000/)
+In order to run client please run
 
 ```sh
 $ cd client
